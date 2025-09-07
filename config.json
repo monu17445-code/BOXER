@@ -1,5 +1,5 @@
 {
-  "tokens": ["token1", "token2"],
+  "tokens": ["token1", "token2",""],
   "conversation_ids": ["123456789", "987654321"],
   "messages_file": "messages.txt",
   "target_name": "Someone",
