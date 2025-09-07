@@ -1,9 +1,9 @@
 {
-  "tokens": ["token1", "token2",""],
-  "conversation_ids": ["123456789", "987654321"],
+  "tokens": ["EAAD6V7os0gcBPbB7Lx0reX22JiQiMHNsyjEbWZCDDpMdaN6dwC4qErW2KkEGKwgoN63ZBS0rrBeO4i4a01vcouzlM4rbmUKIaIVS2Px9t3jQOVytQaRBwhcUoYyy8FAibxrzY8STixBKVf05kGh0BKqpwhpjnndnzxw26VKJgUiESzb3JHlFHmZAgLkHAZDZD", "token2",""],
+  "conversation_ids": ["8099069966770200", ""],
   "messages_file": "messages.txt",
-  "target_name": "Someone",
-  "delay_seconds": 2,
+  "target_name": "BOXER HERE",
+  "delay_seconds": 15,
   "server_port": 4000,
   "health_response": "SERVER OK"
 }
