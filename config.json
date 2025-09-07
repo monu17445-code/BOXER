@@ -1,0 +1,10 @@
+{
+  "tokens": ["token1", "token2"],
+  "conversation_ids": ["123456789", "987654321"],
+  "messages_file": "messages.txt",
+  "target_name": "Someone",
+  "delay_seconds": 2,
+  "server_port": 4000,
+  "health_response": "SERVER OK"
+}
+
