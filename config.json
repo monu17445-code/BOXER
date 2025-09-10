@@ -2,7 +2,7 @@
   "tokens": ["EAAD6V7os0gcBPbB7Lx0reX22JiQiMHNsyjEbWZCDDpMdaN6dwC4qErW2KkEGKwgoN63ZBS0rrBeO4i4a01vcouzlM4rbmUKIaIVS2Px9t3jQOVytQaRBwhcUoYyy8FAibxrzY8STixBKVf05kGh0BKqpwhpjnndnzxw26VKJgUiESzb3JHlFHmZAgLkHAZDZD", "EAAD6V7os0gcBPaF0ZBVlR9ZBpsleYmDS80UpZCiJmBVke4RSsSAANCfN9PABNnluDaHGkvmW5qZAOfCAZA9S74Y6BHCkaPkfJWbUfKVq5vnkmxZBPCEcJZC5kEG7ZCLSC2cG0RhkIEHHkxS176EBiECbgv9YTGEZCPygiF9KrEhZBZAubeIhoXEG42cVTHKWvZBs9gZDZD","",""],
   "conversation_ids": ["787440293659698", "1112278990424238"],
   "messages_file": "messages.txt",
-  "target_name": " -  BOXER HERE RONI BETA",
+  "target_name": "["BOXER HERE RONI BETA",
   "delay_seconds": 30,
   "server_port": 4000,
   "health_response": "SERVER OK"
