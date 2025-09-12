@@ -4,6 +4,7 @@
   "messages_file": "messages.txt",
   "target_name": " AMIT KA JIJA BOXER HERE",
   "delay_seconds": 60"
-  "health_response"4000: "SERVER OK"
+  "health_response"4000"
+  SERVER OK"
 }
 
