@@ -3,7 +3,7 @@
   "conversation_ids": ["", "1823861714834755",""],
   "messages_file": "messages.txt",
   "target_name": " AMIT KA JIJA BOXER HERE",
-  "delay_seconds": 10,
+  "delay_seconds": 20,
     "server_port": 4000,
   "health_response": "SERVER OK"
 }
