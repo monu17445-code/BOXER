@@ -3,7 +3,7 @@
   "conversation_ids": ["9838285432949025"],
   "messages_file": "messages.txt",
   "target_name": " बांगरू का जीजा BOXER HERE",
-  "delay_seconds": 20,
+  "delay_seconds": 10,
     "server_port": 4000,
   "health_response": "SERVER OK"
 }
