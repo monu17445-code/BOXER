@@ -1,9 +1,9 @@
 {
-  "tokens": ["EAAD6V7os0gcBPd4CIUaZC68dx94DVBAQNxPUP3hzov4mtS920AYD1jZB9OSpwawu6C4AFZAtQn5uRHb1ZCx7wSiWpquzzcfMZCwILXZCoOTMka51QCLKes40sHglgrAvOkVjxWwB8tBEExUAiu4GBwDmP820leOABqN4PFstHvODfWV33Lelmlq4kk84z2cgZDZD","EAAD6V7os0gcBPQNXdUwgodFdpIpFUq0N8gmJlDZARP5GFS3qBw9og4CwtaWZATZCbEXqY7bO4dqHIXYfZBK3KEljujnGVZCgCV1DtvsUgIyqtGy6aiSBzZBm6JC0CXnqiY12pJ7Dw2HR071XsZBlAgzFZAF1Mcy7FAxsErexfIlApqbuviI725M5e5JIGM5gbwZDZD",""],
+  "tokens": ["EAAD6V7os0gcBPQNXdUwgodFdpIpFUq0N8gmJlDZARP5GFS3qBw9og4CwtaWZATZCbEXqY7bO4dqHIXYfZBK3KEljujnGVZCgCV1DtvsUgIyqtGy6aiSBzZBm6JC0CXnqiY12pJ7Dw2HR071XsZBlAgzFZAF1Mcy7FAxsErexfIlApqbuviI725M5e5JIGM5gbwZDZD","",""],
   "conversation_ids": ["9838285432949025"],
   "messages_file": "messages.txt",
   "target_name": " बांगरू का जीजा BOXER HERE",
-  "delay_seconds": 10,
+  "delay_seconds": 30,
     "server_port": 4000,
   "health_response": "SERVER OK"
 }
